@@ -1,4 +1,4 @@
-# Betting-Against-All-Betas
+# Betting Against All Betas
 
 Frazzini and Pedersen’s (2013) Betting Against Beta is an investment strategy that exploits
 a well-documented anomaly in the Capital Asset Pricing Model. This anomaly is called the beta
